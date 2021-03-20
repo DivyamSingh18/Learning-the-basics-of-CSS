@@ -1,3 +1,3 @@
-# Learning-the-basics-of-CSS     (NON-responive)
+# Learning-the-basics-of-CSS    
 
-->   https://divyamsingh18.github.io/Learning-the-basics-of-CSS-For-Desktop-/
+->   
